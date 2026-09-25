@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.41f6.com/sitemap.xml
